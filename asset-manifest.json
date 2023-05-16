@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-filterable-table/static/css/main.d7cef445.css",
+    "main.js": "/react-filterable-table/static/js/main.7a03ff35.js",
+    "index.html": "/react-filterable-table/index.html",
+    "main.d7cef445.css.map": "/react-filterable-table/static/css/main.d7cef445.css.map",
+    "main.7a03ff35.js.map": "/react-filterable-table/static/js/main.7a03ff35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cef445.css",
+    "static/js/main.7a03ff35.js"
+  ]
+}
